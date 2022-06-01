@@ -24,7 +24,6 @@ GET {{api}}/count
 ### update a product
 PUT {{api}}/10
 Content-Type: application/json
-
 {
     "name": "laptop",
     "description": "some laptop",
